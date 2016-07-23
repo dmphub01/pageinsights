@@ -1,0 +1,234 @@
+#gird {    margin-top: 50px;}
+.bdyleft {padding:10px;background-color:#fff;border: 3px solid #ddd;}
+.bdyleft p {color:#454545}
+.my_planHeader.my_plan1 {
+    background: rgb(105, 153, 193);
+    border-bottom: thick solid rgb(72, 109, 139);
+	border-radius: 7px;
+	height: 95px;
+}
+ 
+.my_planHeader {
+    text-align: center;
+    color: white;
+    padding-top:0.2em;
+    padding-bottom:0.2em;
+}
+.my_planTitle {
+    font-size: 20px;
+    font-weight: bold;
+    padding: 10px 0px;
+}
+.my_planPrice {
+        font-size: 16px;
+    font-weight: 600;
+    padding-bottom: 10px;   
+}
+.my_planDuration {
+    margin-top: -0.6em;
+}
+.my_plan1 {
+    background: rgb(224,234,242);
+}
+
+.my_planHeader.my_plan1 a {
+    background: rgb(72, 109, 139);
+    color:white;
+}
+
+/* --- Plan 2 --------------------------- */
+.my_plan2 {
+    background: rgb(230,235,218);
+}
+
+.my_planHeader.my_plan2 a {
+    background: rgb(108, 131, 62);
+    color:white;
+}
+
+.my_planHeader.my_plan2 {
+    background: rgb(134, 162, 77);
+    border-bottom: thick solid rgb(108, 131, 62);
+	border-radius:7px;
+	height: 95px;
+}
+
+/* --- Plan 3 --------------------------- */
+.my_plan3 {
+    background: rgb(254,235,212);
+}
+
+.my_planHeader.my_plan3 a {
+    background: rgb(44, 138, 130);
+    color:white;
+}
+
+.my_planHeader.my_plan3 {
+    background: rgb(50, 208, 193);
+    border-bottom: thick solid rgb(44, 138, 130);
+    border-radius: 7px;
+	height: 95px;
+}
+/* --- Plan 4 --------------------------- */
+.my_plan4 {
+    background: rgb(254,235,212);
+}
+
+.my_planHeader.my_plan4 a {
+    background: rgb(199, 127, 40);
+    color:white;
+}
+
+.my_planHeader.my_plan4 {
+    background: rgb(253, 161, 49);
+    border-bottom: thick solid rgb(199, 127, 40);
+	border-radius:7px;
+	height: 95px;
+}
+/* --- Plan 5 --------------------------- */
+.my_plan5 {
+    background: rgb(254,235,212);
+}
+
+.my_planHeader.my_plan5 a {
+    background: rgb(199, 100, 40);
+    color:white;
+}
+
+.my_planHeader.my_plan5 {
+    background: rgb(230, 135, 98);
+    border-bottom: thick solid rgb(199, 100, 40);
+    border-radius: 7px;
+	height: 95px;
+}
+/* --- Plan 6 --------------------------- */
+.my_plan6 {
+    background: rgb(254,235,212);
+}
+
+.my_planHeader.my_plan6 a {
+    background: rgb(199, 152, 40);
+    color:white;
+}
+
+.my_planHeader.my_plan6 {
+    background: rgb(245, 201, 76);
+    border-bottom: thick solid rgb(199, 152, 40);
+    border-radius: 7px;
+	height: 95px;
+}
+.cat-bottom {margin-bottom:15px}
+
+
+.jumbo {
+    padding: 0px 0 20px 0;
+}
+.jumbo h2 {
+    text-align: center;
+    font-size: 44px;
+    padding: 75px 0px 10px 0px;
+    line-height: 68px;
+    letter-spacing: 2px;
+}
+.jumbo h3 {
+    text-align: center;
+    font-size: 24px;
+    padding: 20px 0px 0px 0px;
+    line-height: 40px;
+    letter-spacing: 2px;
+	color: #555;
+}
+.bd-example {
+    margin-left: 0;
+    margin-right: 0;
+    margin-bottom: 0;
+    padding: 1.5rem;
+    border-width: .2rem;
+}
+.bd-example {
+    position: relative;
+    padding: 1rem;
+    margin: 1rem -1rem;
+    border: solid #f7f7f9;
+    border-width: .2rem 0 0;
+}
+.input-group {
+    position: relative;
+    display: table;
+    border-collapse: separate;
+}
+.input-group-addon:first-child {
+    border-right: 0;
+}
+.btn-primary {
+    color: #fff;
+    text-shadow: 0 -1px 0 rgba(0,0,0,0.25);
+    background-color: #FF7878;
+    background-image: -moz-linear-gradient(top,#08c,#04c);
+    background-image: -webkit-gradient(linear,0 0,0 100%,from(#08c),to(#04c));
+    background-image: -webkit-linear-gradient(top,#08c,#04c);
+    background-image: -o-linear-gradient(top,#08c,#04c);
+    background-image: linear-gradient(to bottom,#FF7878,#FF7878);
+    background-repeat: repeat-x;
+    border-color: #04c #04c #002a80;
+    border-color: rgba(0,0,0,0.1) rgba(0,0,0,0.1) rgba(0,0,0,0.25);
+    filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#ff0088cc',endColorstr='#ff0044cc',GradientType=0);
+    filter: progid:DXImageTransform.Microsoft.gradient(enabled=false);
+}
+.btn-primary:hover, .btn-primary:focus, .btn-primary:active, .btn-primary.active, .btn-primary.disabled, .btn-primary[disabled] {
+    color: #fff;
+    background-color: #FF7878;
+}
+
+
+
+.panel-group {
+  padding-top: 50px;
+}
+.panel-default {
+  border-radius: 0;
+  border: none;
+  background: none;
+  margin-bottom: 0;
+  padding-bottom: 14px;
+}
+.panel-default > .panel-heading {
+  border: none;
+  background: none;
+  padding: 0;
+}
+.panel-default > .panel-heading + .panel-collapse .panel-body {
+  border: none;
+  padding: 0 0 0 10px;
+}
+.panel-default h5 {
+    
+    padding: 0;
+    margin: 0 0 5px;
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+}
+.panel-group .panel+.panel {
+  margin-top: 15px;
+}
+
+
+
+.panel-default .accordion-toggle, .panel-default .accordion-toggle:focus, .panel-default .accordion-toggle:hover, .panel-default .accordion-toggle:active {
+    color: #005580;
+    text-decoration: none;
+    font-size: 18px;
+}
+.panel-default .collapsed {
+    color: #5f6f7e;
+    font-size: 18px;
+}
+a {
+    
+    text-decoration: none;
+    color: #5f6f7e;
+	text-decoration:none;
+}
+
+.footer {background-color:#fff;padding:5px;color:#777;text-align:center;}
+.btn-analyze {width: 205px;height: 49px;margin-top: -11px;}
